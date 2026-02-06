@@ -7,6 +7,16 @@
     <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body class="bg-gray-50 text-gray-900">
+    <div id="loader" class="fixed inset-0 bg-white/80 flex items-center justify-center z-50">
+      <div class="text-center">
+        <svg class="animate-spin h-12 w-12 text-gray-700 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+          <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+          <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path>
+        </svg>
+        <div class="mt-2 text-gray-700">Loading dorms...</div>
+      </div>
+    </div>
+
     <div class="max-w-6xl mx-auto p-6">
       <header class="mb-6">
         <h1 class="text-3xl font-bold">Dorm Directory</h1>
@@ -33,6 +43,8 @@
     </div>
 
     <script>
+    function showLoader(){ const l = document.getElementById('loader'); if(l) l.style.display = 'flex'; }
+    function hideLoader(){ const l = document.getElementById('loader'); if(l) l.style.display = 'none'; }
     async function loadDorms() {
       const res = await fetch('https://script.google.com/macros/s/AKfycbwDb5eIffe6p7EviJU76MC7wcyIpIE2jAkU51lmV5FLjnvgNMTUyJVzfuXgsXEZ7uMt/exec');
       const json = await res.json();
@@ -110,9 +122,16 @@
     }
 
     async function init() {
-      const dorms = await loadDorms();
-      setupFilters(dorms);
-      renderGrid(dorms);
+      showLoader();
+      try {
+        const dorms = await loadDorms();
+        setupFilters(dorms);
+        renderGrid(dorms);
+      } catch (err) {
+        console.error(err);
+      } finally {
+        hideLoader();
+      }
     }
 
     init().catch(err => console.error(err));
