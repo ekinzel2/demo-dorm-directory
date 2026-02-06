@@ -1,0 +1,1180 @@
+{
+  "success": true,
+  "data": {
+    "dorms": {
+      "headers": [
+        "Name",
+        "Sex",
+        "Quad",
+        "Capacity",
+        "Colors",
+        "Chapel",
+        "Mascot",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "Alumni Hall",
+          "Male",
+          "South Quad",
+          225,
+          "Green and White",
+          "St. Charles Borromeo",
+          "Dawgs",
+          "Established 1931"
+        ],
+        [
+          "Badin Hall",
+          "Female",
+          "South Quad",
+          131,
+          "Green and White",
+          "St. Stephen Columkille",
+          "Bullfrogs",
+          "Historic dorm"
+        ],
+        [
+          "Baumer Hall",
+          "Male",
+          "West Quad",
+          251,
+          "Burgundy and Gold",
+          "St. Martin de Porres",
+          "Buccaneers",
+          "Newer hall"
+        ],
+        [
+          "Breen-Phillips Hall",
+          "Female",
+          "North Quad",
+          "200 (approx)",
+          "Blue and Pink",
+          "St. Francis of Assisi",
+          "Babes",
+          "Traditions and events"
+        ],
+        [
+          "Carroll Hall",
+          "Male",
+          "Far Quad",
+          102,
+          "Crimson and Gold",
+          "St. André Bessette",
+          "Vermin",
+          ""
+        ],
+        [
+          "Cavanaugh Hall",
+          "Female",
+          "North Quad",
+          211,
+          "Green and Purple",
+          "The Holy Spirit",
+          "Chaos",
+          ""
+        ],
+        [
+          "Coyle Community in Zahm Hall",
+          "Male",
+          "North Quad",
+          176,
+          "Green and White",
+          "St. Adalbert",
+          "The Crew",
+          ""
+        ],
+        [
+          "Dillon Hall",
+          "Male",
+          "South Quad",
+          253,
+          "Red and Black",
+          "St. Patrick",
+          "Big Red",
+          ""
+        ],
+        [
+          "Duncan Hall",
+          "Male",
+          "West Quad",
+          232,
+          "Green and Navy",
+          "St. Walter of Pontoise",
+          "Highlanders",
+          ""
+        ],
+        [
+          "Dunne Hall",
+          "Male",
+          "East Quad",
+          221,
+          "Green/Blue/Gray",
+          "Bl. Basil Moreau",
+          "Sentinels",
+          ""
+        ],
+        [
+          "Farley Hall",
+          "Female",
+          "North Quad",
+          215,
+          "Teal and Yellow",
+          "St. John the Evangelist",
+          "Finest",
+          ""
+        ],
+        [
+          "Flaherty Hall",
+          "Female",
+          "East Quad",
+          226,
+          "Lavender and Navy",
+          "Mary Queen of Angels",
+          "Bears",
+          ""
+        ],
+        [
+          "Graham Family Hall",
+          "Male",
+          "East Quad",
+          262,
+          "Purple and Gold",
+          "St. Augustine",
+          "Royals",
+          "Newer community"
+        ],
+        [
+          "Howard Hall",
+          "Female",
+          "South Quad",
+          148,
+          "Yellow and Green",
+          "Our Lady of Lourdes",
+          "Ducks",
+          ""
+        ],
+        [
+          "Johnson Family Hall",
+          "Female",
+          "East Quad",
+          225,
+          "Blue and White",
+          "St. Teresa of Calcutta",
+          "Valkyries",
+          ""
+        ],
+        [
+          "Keenan Hall",
+          "Male",
+          "North Quad",
+          250,
+          "Navy and White",
+          "Holy Cross",
+          "Knights",
+          ""
+        ],
+        [
+          "Keough Hall",
+          "Male",
+          "West Quad",
+          271,
+          "Blue and Red",
+          "Our Lady of Guadalupe",
+          "Kangaroos",
+          ""
+        ],
+        [
+          "Knott Hall",
+          "Male",
+          "Mod Quad",
+          252,
+          "Orange and Blue",
+          "St. Elizabeth Ann Seton",
+          "Juggerknotts",
+          ""
+        ],
+        [
+          "Lewis Hall",
+          "Female",
+          "God (Main) Quad",
+          269,
+          "Blue and Yellow",
+          "St. Theresa of Avila",
+          "Chicks",
+          ""
+        ],
+        [
+          "Lyons Hall",
+          "Female",
+          "South Quad",
+          182,
+          "Black and Gold",
+          "All Souls'",
+          "Lions",
+          ""
+        ],
+        [
+          "McGlinn Hall",
+          "Female",
+          "West Quad",
+          272,
+          "Green",
+          "St. Kateri Tekakwitha",
+          "Shamrocks",
+          ""
+        ],
+        [
+          "Morrissey Hall",
+          "Male",
+          "South Quad",
+          235,
+          "Black and Yellow",
+          "",
+          "The Manor",
+          ""
+        ],
+        [
+          "O’Neill Family Hall",
+          "Male",
+          "West Quad",
+          279,
+          "Blue and Silver",
+          "",
+          "Angry Mob",
+          ""
+        ],
+        [
+          "Pangborn Hall",
+          "Female",
+          "South Quad",
+          173,
+          "Purple and Green",
+          "",
+          "Phoxes",
+          ""
+        ],
+        [
+          "Pasquerilla East Hall",
+          "Female",
+          "Mod Quad",
+          255,
+          "Red and Black",
+          "",
+          "Pyros",
+          ""
+        ],
+        [
+          "Pasquerilla West Hall",
+          "Female",
+          "Mod Quad",
+          256,
+          "Purple and White",
+          "Saint Clare of Assisi",
+          "Purple Weasels",
+          ""
+        ],
+        [
+          "Ryan Hall",
+          "Female",
+          "West Quad",
+          247,
+          "Turquoise and White",
+          "",
+          "Wildcats",
+          ""
+        ],
+        [
+          "St. Edward’s Hall",
+          "Male",
+          "God Quad",
+          161,
+          "Green and Gold",
+          "",
+          "Gentlemen",
+          ""
+        ],
+        [
+          "Siegfried Hall",
+          "Male",
+          "Mod Quad",
+          240,
+          "Maroon and Gray",
+          "",
+          "Ramblers",
+          ""
+        ],
+        [
+          "Sorin Hall",
+          "Male",
+          "God Quad",
+          144,
+          "Blue and Gold",
+          "",
+          "Otters",
+          ""
+        ],
+        [
+          "Stanford Hall",
+          "Male",
+          "North Quad",
+          254,
+          "Green and Gold",
+          "",
+          "Griffins",
+          ""
+        ],
+        [
+          "Walsh Hall",
+          "Female",
+          "God Quad",
+          182,
+          "Navy and Light Blue",
+          "",
+          "Wild Women",
+          ""
+        ],
+        [
+          "Welsh Family Hall",
+          "Female",
+          "West Quad",
+          281,
+          "Blue and White",
+          "",
+          "Whirlwinds",
+          ""
+        ],
+        [
+          "Zahm Hall",
+          "Swing (Temporary)",
+          "North Quad",
+          "Varies",
+          "Black and Red",
+          "Saint Albert the Great",
+          "Zahmbies",
+          "Swing hall for renovations"
+        ]
+      ],
+      "data": [
+        [
+          "Name",
+          "Sex",
+          "Quad",
+          "Capacity",
+          "Colors",
+          "Chapel",
+          "Mascot",
+          "Notes"
+        ],
+        [
+          "Alumni Hall",
+          "Male",
+          "South Quad",
+          225,
+          "Green and White",
+          "St. Charles Borromeo",
+          "Dawgs",
+          "Established 1931"
+        ],
+        [
+          "Badin Hall",
+          "Female",
+          "South Quad",
+          131,
+          "Green and White",
+          "St. Stephen Columkille",
+          "Bullfrogs",
+          "Historic dorm"
+        ],
+        [
+          "Baumer Hall",
+          "Male",
+          "West Quad",
+          251,
+          "Burgundy and Gold",
+          "St. Martin de Porres",
+          "Buccaneers",
+          "Newer hall"
+        ],
+        [
+          "Breen-Phillips Hall",
+          "Female",
+          "North Quad",
+          "200 (approx)",
+          "Blue and Pink",
+          "St. Francis of Assisi",
+          "Babes",
+          "Traditions and events"
+        ],
+        [
+          "Carroll Hall",
+          "Male",
+          "Far Quad",
+          102,
+          "Crimson and Gold",
+          "St. André Bessette",
+          "Vermin",
+          ""
+        ],
+        [
+          "Cavanaugh Hall",
+          "Female",
+          "North Quad",
+          211,
+          "Green and Purple",
+          "The Holy Spirit",
+          "Chaos",
+          ""
+        ],
+        [
+          "Coyle Community in Zahm Hall",
+          "Male",
+          "North Quad",
+          176,
+          "Green and White",
+          "St. Adalbert",
+          "The Crew",
+          ""
+        ],
+        [
+          "Dillon Hall",
+          "Male",
+          "South Quad",
+          253,
+          "Red and Black",
+          "St. Patrick",
+          "Big Red",
+          ""
+        ],
+        [
+          "Duncan Hall",
+          "Male",
+          "West Quad",
+          232,
+          "Green and Navy",
+          "St. Walter of Pontoise",
+          "Highlanders",
+          ""
+        ],
+        [
+          "Dunne Hall",
+          "Male",
+          "East Quad",
+          221,
+          "Green/Blue/Gray",
+          "Bl. Basil Moreau",
+          "Sentinels",
+          ""
+        ],
+        [
+          "Farley Hall",
+          "Female",
+          "North Quad",
+          215,
+          "Teal and Yellow",
+          "St. John the Evangelist",
+          "Finest",
+          ""
+        ],
+        [
+          "Flaherty Hall",
+          "Female",
+          "East Quad",
+          226,
+          "Lavender and Navy",
+          "Mary Queen of Angels",
+          "Bears",
+          ""
+        ],
+        [
+          "Graham Family Hall",
+          "Male",
+          "East Quad",
+          262,
+          "Purple and Gold",
+          "St. Augustine",
+          "Royals",
+          "Newer community"
+        ],
+        [
+          "Howard Hall",
+          "Female",
+          "South Quad",
+          148,
+          "Yellow and Green",
+          "Our Lady of Lourdes",
+          "Ducks",
+          ""
+        ],
+        [
+          "Johnson Family Hall",
+          "Female",
+          "East Quad",
+          225,
+          "Blue and White",
+          "St. Teresa of Calcutta",
+          "Valkyries",
+          ""
+        ],
+        [
+          "Keenan Hall",
+          "Male",
+          "North Quad",
+          250,
+          "Navy and White",
+          "Holy Cross",
+          "Knights",
+          ""
+        ],
+        [
+          "Keough Hall",
+          "Male",
+          "West Quad",
+          271,
+          "Blue and Red",
+          "Our Lady of Guadalupe",
+          "Kangaroos",
+          ""
+        ],
+        [
+          "Knott Hall",
+          "Male",
+          "Mod Quad",
+          252,
+          "Orange and Blue",
+          "St. Elizabeth Ann Seton",
+          "Juggerknotts",
+          ""
+        ],
+        [
+          "Lewis Hall",
+          "Female",
+          "God (Main) Quad",
+          269,
+          "Blue and Yellow",
+          "St. Theresa of Avila",
+          "Chicks",
+          ""
+        ],
+        [
+          "Lyons Hall",
+          "Female",
+          "South Quad",
+          182,
+          "Black and Gold",
+          "All Souls'",
+          "Lions",
+          ""
+        ],
+        [
+          "McGlinn Hall",
+          "Female",
+          "West Quad",
+          272,
+          "Green",
+          "St. Kateri Tekakwitha",
+          "Shamrocks",
+          ""
+        ],
+        [
+          "Morrissey Hall",
+          "Male",
+          "South Quad",
+          235,
+          "Black and Yellow",
+          "",
+          "The Manor",
+          ""
+        ],
+        [
+          "O’Neill Family Hall",
+          "Male",
+          "West Quad",
+          279,
+          "Blue and Silver",
+          "",
+          "Angry Mob",
+          ""
+        ],
+        [
+          "Pangborn Hall",
+          "Female",
+          "South Quad",
+          173,
+          "Purple and Green",
+          "",
+          "Phoxes",
+          ""
+        ],
+        [
+          "Pasquerilla East Hall",
+          "Female",
+          "Mod Quad",
+          255,
+          "Red and Black",
+          "",
+          "Pyros",
+          ""
+        ],
+        [
+          "Pasquerilla West Hall",
+          "Female",
+          "Mod Quad",
+          256,
+          "Purple and White",
+          "Saint Clare of Assisi",
+          "Purple Weasels",
+          ""
+        ],
+        [
+          "Ryan Hall",
+          "Female",
+          "West Quad",
+          247,
+          "Turquoise and White",
+          "",
+          "Wildcats",
+          ""
+        ],
+        [
+          "St. Edward’s Hall",
+          "Male",
+          "God Quad",
+          161,
+          "Green and Gold",
+          "",
+          "Gentlemen",
+          ""
+        ],
+        [
+          "Siegfried Hall",
+          "Male",
+          "Mod Quad",
+          240,
+          "Maroon and Gray",
+          "",
+          "Ramblers",
+          ""
+        ],
+        [
+          "Sorin Hall",
+          "Male",
+          "God Quad",
+          144,
+          "Blue and Gold",
+          "",
+          "Otters",
+          ""
+        ],
+        [
+          "Stanford Hall",
+          "Male",
+          "North Quad",
+          254,
+          "Green and Gold",
+          "",
+          "Griffins",
+          ""
+        ],
+        [
+          "Walsh Hall",
+          "Female",
+          "God Quad",
+          182,
+          "Navy and Light Blue",
+          "",
+          "Wild Women",
+          ""
+        ],
+        [
+          "Welsh Family Hall",
+          "Female",
+          "West Quad",
+          281,
+          "Blue and White",
+          "",
+          "Whirlwinds",
+          ""
+        ],
+        [
+          "Zahm Hall",
+          "Swing (Temporary)",
+          "North Quad",
+          "Varies",
+          "Black and Red",
+          "Saint Albert the Great",
+          "Zahmbies",
+          "Swing hall for renovations"
+        ]
+      ]
+    },
+    "events": {
+      "headers": [
+        "Title",
+        "Date",
+        "Time",
+        "EndTime",
+        "Location",
+        "Dorm",
+        "Category",
+        "Description",
+        "Featured"
+      ],
+      "rows": [
+        [
+          "Keenan Revue - Night 1",
+          "2026-02-26T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T03:30:00.000Z",
+          "Stepan Center",
+          "Keenan Hall",
+          "Tradition",
+          "The legendary annual variety show featuring skits, comedy, and musical performances. Proceeds benefit Dismas House.",
+          true
+        ],
+        [
+          "Keenan Revue - Night 2",
+          "2026-02-27T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T03:30:00.000Z",
+          "Stepan Center",
+          "Keenan Hall",
+          "Tradition",
+          "Night two of Notre Dame's most beloved student show. Get your tickets early — they go fast.",
+          true
+        ],
+        [
+          "Keenan Revue - Night 3",
+          "2026-02-28T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T03:30:00.000Z",
+          "Stepan Center",
+          "Keenan Hall",
+          "Tradition",
+          "Closing night of the Keenan Revue. Don't miss the finale.",
+          true
+        ],
+        [
+          "Fisher Regatta",
+          "2026-04-19T04:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "1899-12-30T22:00:00.000Z",
+          "St. Mary's Lake",
+          "Fisher Hall",
+          "Tradition",
+          "Teams build and race homemade boats across the lake. One of the most iconic events of the year.",
+          true
+        ],
+        [
+          "Dillon Pep Rally",
+          "2026-09-04T04:00:00.000Z",
+          "1899-12-31T00:00:00.000Z",
+          "1899-12-31T02:00:00.000Z",
+          "South Quad",
+          "Dillon Hall",
+          "Tradition",
+          "Comedy skits, dorm cheers, and high energy — the unofficial kickoff to football season.",
+          false
+        ],
+        [
+          "Mr. ND Pageant",
+          "2026-03-27T04:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T03:00:00.000Z",
+          "Washington Hall",
+          "Walsh Hall",
+          "Tradition",
+          "Walsh Hall's annual pageant to crown Mr. ND. Ticket proceeds support St. Margaret's House.",
+          false
+        ],
+        [
+          "McGlinn Casino Night",
+          "2026-03-06T05:00:00.000Z",
+          "1899-12-31T02:00:00.000Z",
+          "1899-12-31T05:00:00.000Z",
+          "McGlinn Hall",
+          "McGlinn Hall",
+          "Social",
+          "A glamorous casino-themed night with blackjack, roulette, and poker. Dress to impress.",
+          false
+        ],
+        [
+          "Carroll Christmas",
+          "2026-12-05T05:00:00.000Z",
+          "1899-12-31T00:00:00.000Z",
+          "1899-12-31T03:00:00.000Z",
+          "Carroll Hall",
+          "Carroll Hall",
+          "Tradition",
+          "Christmas lights, hot chocolate, karaoke, and photos with Santa on the far side of campus.",
+          false
+        ],
+        [
+          "Lewis House of Pancakes (LHOP)",
+          "2026-03-13T04:00:00.000Z",
+          "1899-12-31T04:00:00.000Z",
+          "1899-12-30T07:00:00.000Z",
+          "Lewis Hall",
+          "Lewis Hall",
+          "Service",
+          "Late-night brunch fundraiser by the Chicks. All proceeds benefit the Food Bank of Northern Indiana.",
+          false
+        ],
+        [
+          "Dunne Castles for a Cause",
+          "2026-02-21T05:00:00.000Z",
+          "1899-12-30T20:00:00.000Z",
+          "1899-12-30T14:00:00.000Z",
+          "North Quad",
+          "Dunne Hall",
+          "Service",
+          "Build cardboard castles and camp out overnight to raise money for the South Bend Center for the Homeless.",
+          false
+        ],
+        [
+          "Stanford Mardi Scraw",
+          "2026-02-14T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T04:00:00.000Z",
+          "Stanford Hall",
+          "Stanford Hall",
+          "Social",
+          "Cajun food, king cake, music and masks before Lent begins. Proceeds support Live Well Water.",
+          false
+        ],
+        [
+          "Farley 5K",
+          "2026-04-04T04:00:00.000Z",
+          "1899-12-30T16:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "North Quad",
+          "Farley Hall",
+          "Service",
+          "A 5K with an egg hunt and prizes. All proceeds go to Our Lady of the Road.",
+          false
+        ],
+        [
+          "Keough Chariot Race",
+          "2026-04-11T04:00:00.000Z",
+          "1899-12-30T19:00:00.000Z",
+          "1899-12-30T21:00:00.000Z",
+          "South Quad",
+          "Keough Hall",
+          "Tradition",
+          "Sections build and race chariots across South Quad. Proceeds go to Reins of Life.",
+          false
+        ],
+        [
+          "Alumni Iditarod",
+          "2026-03-20T04:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "South Quad",
+          "Alumni Hall",
+          "Service",
+          "24 consecutive hours of jogging around South Quad in relay fashion. A true test of Dawg endurance.",
+          false
+        ],
+        [
+          "Duncan 9/11 Stair Climb",
+          "2026-09-11T04:00:00.000Z",
+          "1899-12-30T14:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "Notre Dame Stadium",
+          "Duncan Hall",
+          "Service",
+          "Students climb 110 flights of stairs in the stadium to honor first responders. Proceeds go to HEART 9/11.",
+          false
+        ],
+        [
+          "Knott Hot Dog Eating Contest",
+          "2026-03-28T04:00:00.000Z",
+          "1899-12-30T23:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "Knott Hall",
+          "Knott Hall",
+          "Tradition",
+          "Knott's iconic hot dog eating contest benefiting the Ronald McDonald House.",
+          false
+        ],
+        [
+          "Welsh Fam 5K Color Run",
+          "2026-04-18T04:00:00.000Z",
+          "1899-12-30T15:00:00.000Z",
+          "1899-12-30T17:00:00.000Z",
+          "Campus Trails",
+          "Welsh Family Hall",
+          "Service",
+          "The Clary Murphy Thomas Memorial Color Run in honor of the Class of 2002. A colorful morning for a great cause.",
+          false
+        ],
+        [
+          "Sophomore Study Night",
+          "2026-02-10T05:00:00.000Z",
+          "1899-12-31T02:00:00.000Z",
+          "1899-12-31T05:00:00.000Z",
+          "Hesburgh Library",
+          "Campus-Wide",
+          "Academic",
+          "Open study session with free snacks and tutoring support ahead of midterms.",
+          false
+        ],
+        [
+          "ND Day Service Projects",
+          "2026-03-07T05:00:00.000Z",
+          "1899-12-30T15:00:00.000Z",
+          "1899-12-30T20:00:00.000Z",
+          "Various Locations",
+          "Campus-Wide",
+          "Service",
+          "Multiple dorm-organized volunteer projects around South Bend. Sign up through your hall.",
+          false
+        ],
+        [
+          "Pasquerilla East Pyros Game Night",
+          "2026-02-20T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T04:00:00.000Z",
+          "Pasquerilla East Hall",
+          "Pasquerilla East Hall",
+          "Social",
+          "Board games, video game tournaments, and snacks. Open to all students.",
+          false
+        ]
+      ],
+      "data": [
+        [
+          "Title",
+          "Date",
+          "Time",
+          "EndTime",
+          "Location",
+          "Dorm",
+          "Category",
+          "Description",
+          "Featured"
+        ],
+        [
+          "Keenan Revue - Night 1",
+          "2026-02-26T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T03:30:00.000Z",
+          "Stepan Center",
+          "Keenan Hall",
+          "Tradition",
+          "The legendary annual variety show featuring skits, comedy, and musical performances. Proceeds benefit Dismas House.",
+          true
+        ],
+        [
+          "Keenan Revue - Night 2",
+          "2026-02-27T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T03:30:00.000Z",
+          "Stepan Center",
+          "Keenan Hall",
+          "Tradition",
+          "Night two of Notre Dame's most beloved student show. Get your tickets early — they go fast.",
+          true
+        ],
+        [
+          "Keenan Revue - Night 3",
+          "2026-02-28T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T03:30:00.000Z",
+          "Stepan Center",
+          "Keenan Hall",
+          "Tradition",
+          "Closing night of the Keenan Revue. Don't miss the finale.",
+          true
+        ],
+        [
+          "Fisher Regatta",
+          "2026-04-19T04:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "1899-12-30T22:00:00.000Z",
+          "St. Mary's Lake",
+          "Fisher Hall",
+          "Tradition",
+          "Teams build and race homemade boats across the lake. One of the most iconic events of the year.",
+          true
+        ],
+        [
+          "Dillon Pep Rally",
+          "2026-09-04T04:00:00.000Z",
+          "1899-12-31T00:00:00.000Z",
+          "1899-12-31T02:00:00.000Z",
+          "South Quad",
+          "Dillon Hall",
+          "Tradition",
+          "Comedy skits, dorm cheers, and high energy — the unofficial kickoff to football season.",
+          false
+        ],
+        [
+          "Mr. ND Pageant",
+          "2026-03-27T04:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T03:00:00.000Z",
+          "Washington Hall",
+          "Walsh Hall",
+          "Tradition",
+          "Walsh Hall's annual pageant to crown Mr. ND. Ticket proceeds support St. Margaret's House.",
+          false
+        ],
+        [
+          "McGlinn Casino Night",
+          "2026-03-06T05:00:00.000Z",
+          "1899-12-31T02:00:00.000Z",
+          "1899-12-31T05:00:00.000Z",
+          "McGlinn Hall",
+          "McGlinn Hall",
+          "Social",
+          "A glamorous casino-themed night with blackjack, roulette, and poker. Dress to impress.",
+          false
+        ],
+        [
+          "Carroll Christmas",
+          "2026-12-05T05:00:00.000Z",
+          "1899-12-31T00:00:00.000Z",
+          "1899-12-31T03:00:00.000Z",
+          "Carroll Hall",
+          "Carroll Hall",
+          "Tradition",
+          "Christmas lights, hot chocolate, karaoke, and photos with Santa on the far side of campus.",
+          false
+        ],
+        [
+          "Lewis House of Pancakes (LHOP)",
+          "2026-03-13T04:00:00.000Z",
+          "1899-12-31T04:00:00.000Z",
+          "1899-12-30T07:00:00.000Z",
+          "Lewis Hall",
+          "Lewis Hall",
+          "Service",
+          "Late-night brunch fundraiser by the Chicks. All proceeds benefit the Food Bank of Northern Indiana.",
+          false
+        ],
+        [
+          "Dunne Castles for a Cause",
+          "2026-02-21T05:00:00.000Z",
+          "1899-12-30T20:00:00.000Z",
+          "1899-12-30T14:00:00.000Z",
+          "North Quad",
+          "Dunne Hall",
+          "Service",
+          "Build cardboard castles and camp out overnight to raise money for the South Bend Center for the Homeless.",
+          false
+        ],
+        [
+          "Stanford Mardi Scraw",
+          "2026-02-14T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T04:00:00.000Z",
+          "Stanford Hall",
+          "Stanford Hall",
+          "Social",
+          "Cajun food, king cake, music and masks before Lent begins. Proceeds support Live Well Water.",
+          false
+        ],
+        [
+          "Farley 5K",
+          "2026-04-04T04:00:00.000Z",
+          "1899-12-30T16:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "North Quad",
+          "Farley Hall",
+          "Service",
+          "A 5K with an egg hunt and prizes. All proceeds go to Our Lady of the Road.",
+          false
+        ],
+        [
+          "Keough Chariot Race",
+          "2026-04-11T04:00:00.000Z",
+          "1899-12-30T19:00:00.000Z",
+          "1899-12-30T21:00:00.000Z",
+          "South Quad",
+          "Keough Hall",
+          "Tradition",
+          "Sections build and race chariots across South Quad. Proceeds go to Reins of Life.",
+          false
+        ],
+        [
+          "Alumni Iditarod",
+          "2026-03-20T04:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "South Quad",
+          "Alumni Hall",
+          "Service",
+          "24 consecutive hours of jogging around South Quad in relay fashion. A true test of Dawg endurance.",
+          false
+        ],
+        [
+          "Duncan 9/11 Stair Climb",
+          "2026-09-11T04:00:00.000Z",
+          "1899-12-30T14:00:00.000Z",
+          "1899-12-30T18:00:00.000Z",
+          "Notre Dame Stadium",
+          "Duncan Hall",
+          "Service",
+          "Students climb 110 flights of stairs in the stadium to honor first responders. Proceeds go to HEART 9/11.",
+          false
+        ],
+        [
+          "Knott Hot Dog Eating Contest",
+          "2026-03-28T04:00:00.000Z",
+          "1899-12-30T23:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "Knott Hall",
+          "Knott Hall",
+          "Tradition",
+          "Knott's iconic hot dog eating contest benefiting the Ronald McDonald House.",
+          false
+        ],
+        [
+          "Welsh Fam 5K Color Run",
+          "2026-04-18T04:00:00.000Z",
+          "1899-12-30T15:00:00.000Z",
+          "1899-12-30T17:00:00.000Z",
+          "Campus Trails",
+          "Welsh Family Hall",
+          "Service",
+          "The Clary Murphy Thomas Memorial Color Run in honor of the Class of 2002. A colorful morning for a great cause.",
+          false
+        ],
+        [
+          "Sophomore Study Night",
+          "2026-02-10T05:00:00.000Z",
+          "1899-12-31T02:00:00.000Z",
+          "1899-12-31T05:00:00.000Z",
+          "Hesburgh Library",
+          "Campus-Wide",
+          "Academic",
+          "Open study session with free snacks and tutoring support ahead of midterms.",
+          false
+        ],
+        [
+          "ND Day Service Projects",
+          "2026-03-07T05:00:00.000Z",
+          "1899-12-30T15:00:00.000Z",
+          "1899-12-30T20:00:00.000Z",
+          "Various Locations",
+          "Campus-Wide",
+          "Service",
+          "Multiple dorm-organized volunteer projects around South Bend. Sign up through your hall.",
+          false
+        ],
+        [
+          "Pasquerilla East Pyros Game Night",
+          "2026-02-20T05:00:00.000Z",
+          "1899-12-31T01:00:00.000Z",
+          "1899-12-31T04:00:00.000Z",
+          "Pasquerilla East Hall",
+          "Pasquerilla East Hall",
+          "Social",
+          "Board games, video game tournaments, and snacks. Open to all students.",
+          false
+        ]
+      ]
+    }
+  },
+  "timestamp": "2026-02-06T22:41:54.472Z"
+}
